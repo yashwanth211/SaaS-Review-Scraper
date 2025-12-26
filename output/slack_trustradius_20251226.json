@@ -1,0 +1,42 @@
+[
+  {
+    "source": "TrustRadius",
+    "title": "A good alternative to MS Teams for your Dev Ops Group",
+    "description": "Slack is mainly used by our coding team and also the Dev Ops side of the house. We recently developed VoIP software as well as a program called Tadpole to help with the process for setting up a printer. It helps our Team share links to Git Repos and also provides a shareable history so that people can track changes to the software we are producing.\n\nHelps the team in America stay in contact with the team in India.\nEasily share links to Googe Drive, Microsoft One Drive, or Dropbox\nConversations about coding are categorized and archived for later review.\n\nSome coders feel like it monopolizes their attention.\nCan create confusion if some of your team is also using Teams and they don't update Slack.\nTrouble with formatting tables that are being imported into Powerpoint presentations.\n\nSlack is great for tracking commits to new coding projects. You can take parts of code that still need to be implemented later and easily search through the history of comments if there is something that goes wrong with a code commitment. It can be difficult for people that only like Teams to adjust to a new platform if you are using both to communicate.",
+    "date": "2025-11-03",
+    "rating": "8/10",
+    "reviewer": "Jeremy Herman"
+  },
+  {
+    "source": "TrustRadius",
+    "title": "Slack for daily communication.",
+    "description": "I use Slack to communicate with my team members. It's better to use Slack instead of sending excessive emails to the team, and by this we can communicate effectively and we can improve the productivity of the work. More importantly its user interface was too clean and clear. I am impressed with some features, like scheduled messages. But sometimes it gets logged out frequently, and I need to log in every day.\n\nReal time communication with team members.\nOrganized communication in separate channels.\nSending scheduled messages.\nClean and clear user interface.\n\nDifficult to find a particular message in a conversation.\nNeed to improve audio and video quality.\nSometimes I am facing issues with file sharing.\n\nIn my experience, Slack is ideal for agile team communication, quick updates, and informal daily conversations where transparency is key. It's less appropriate for formal, top-down announcements or highly sensitive discussions, best reserved for more secure, less chatty channels like email. It can also be overwhelmed with notifications in large organizations. That's why I am rating 7.",
+    "date": "2025-11-02",
+    "rating": "7/10",
+    "reviewer": "chaitanya prasad reddy potula"
+  },
+  {
+    "source": "TrustRadius",
+    "title": "Slack helps avoid meetings",
+    "description": "We used Slack at [...] School. We employ about 50 total employees - teachers, assistants, specialists, and administrative. The goal was to get everyone on the same page communication-wise. Also, we wanted to have groups that could keep track of the history of discussions regarding annual events. The employee who instituted the use of Slack had used it very successfully at a previous job.\n\nCommunication can be tailored to the recipients.\nThe dashboard let's you see what you need to deal with.\nYou can message a group or an individual.\n\nHard for some, non-tech employees.\nWe didn't have 100% adoption of the tool.\nDebate between should this topic be a Slack message or an email?\n\nIf you population likes technology, then I would recommend Slack. It is more difficult to implement if not everyone is on Slack or knows how to use it. Slack was used well by some employees who loved it. Slack allowed them to plan annual events and get feedback and ideas from those involved in the event.",
+    "date": "2025-10-22",
+    "rating": "9/10",
+    "reviewer": "Tim Lacine"
+  },
+  {
+    "source": "TrustRadius",
+    "title": "Slack Real time collaboration tool for effective communication.",
+    "description": "We primarily use Slack for internal communication within the company, including chat, calls, discussions via channels, and threads. It is very useful for communication within the team and across stakeholders and departments. We are also using Slack for external vendor communication. Business problems we are addressing: When we are working on the project with all the stakeholders for effective communication and updates, we are using Slack to be on the same channel, and all discussions are in a single place. We are also utilizing Slack for general communication, org-wide, in the dedicated channel.\n\nReal time chat.\nOrganized channel with private and public option.\nIntegration with tools.\n\nSearch functionality to find exact message from.\nMultiple threads can be better handled.\n\nWell-suited for internal communication within projects or across the organization, it also supports third-party communication, including chats, calls, discussions via channels, and threads. This is less appropriate for scheduling meetings with the member.",
+    "date": "2025-10-16",
+    "rating": "10/10",
+    "reviewer": "Anshuman Varshney"
+  },
+  {
+    "source": "TrustRadius",
+    "title": "Great team communication platform",
+    "description": "We use Slack for the majority of our asynchronous work-related communication. This includes asking questions for feature development, project management, prioritization, managing customers and business, and more. We use a lot of the integrations as well, like Zoom, Google Calendar, Notion, or Forkable, to integrate with the other tools that we use. Slack helps us to have open communication, keep history of important conversations, track issues and resolution, and support each other debugging. We also have external channels with some of our customers or technical partners for coordination. We typically use Slack for any internal communication, and then we'll use email for corresponding with people outside of the company.\n\nChannels for separating conversations by topics\nIntegrations with other platforms\nThreads for consolidation of messages and to avoid unnecessary notification noise\nActivity tab for managing reactions, threads, responses, and DMs\n\nWould love a better integration with GitHub. For example, notifications when your PR is updated, when review is requested, @-mention in comments, etc.\nImproved \"Later\" tab, for example the ability to create to-do lists or making the \"Later\" tab into a more powerful to-do list (annotate items with notes)\nMore powerful integrations, e.g. Google Calendar could render a calendar view within Slack, rather than sending the daily schedule\n\nSlack is really effective for smaller teams to use as an internal communication platform. I think that it's still suitable even for companies of up to 500-1000 employees, but for larger teams it's less appropriate (or would require more aggressive organization, e.g. keeping channels protected and on an invite-only basis). It's really helpful for small team-to-small team communication too (like in our case where we create external channels to support POCs/business partnerships). It's not great for direct collaboration (e.g. it's hard to iterate on a project spec or a document together, directly in Slack) but it's well suited for conversational coordination, like planning meetings or asking informational questions.",
+    "date": "2025-10-16",
+    "rating": "9/10",
+    "reviewer": "Kelsey Wong"
+  }
+]
